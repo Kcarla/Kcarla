@@ -16,36 +16,29 @@ The true soldier does not fight because he hates what is in front of him, but be
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td style="border: 0";>
-      <img width="400" src="https://i.imgur.com/bXxIgrd.png" />
-    </td>
-    <td style="border: 0";>
-      <p>
-        💻 Project focused on quality content on programming and technology in general <a href="https://www.instagram.com/guiadevbrasil/">Guia Dev Brasil<a/>.
-      </p>
-      <p>
-        🌙 Making daily content in <a href="https://www.instagram.com/guiadevbrasil/">@guiadevbrasil</a>, I supplement that writing with <a href="https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g">videos on Youtube</a>.
-      </p>
-      <h3>Other places you can find me</h3>
-      <ul>
-        <li>
-          🐦 <a href="https://twitter.com/manotoquinho">Follow me on Twitter</a>
-        </li>
-        <li>
-          📺 <a href="https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g">Subscribe on Youtube</a>
-        </li>
-        <li>
-          📷 <a href="https://www.instagram.com/guiadevbrasil/">Follow me on instagram</a>
-        </li>
-        <li>
-          📬 <a href=mailto:arthurguiadev@gmail.com>Contact-me on email</a>
-        </li>
-      </ul>
-    </td>
-  </tr>
+   ## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+<div align="center">
+ 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+</div>
   
-  
-
-</table>
-
-
+  ##
+ 
+<div> 
+  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
