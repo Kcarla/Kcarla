@@ -1,4 +1,4 @@
-# Hi, I'm Arthur 👨🏻‍💻 - @guiadevbrasil
+# Hi, I'm Karina Carla 👨🏻‍💻 
 
 <h4 align="center">
 
