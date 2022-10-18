@@ -1,5 +1,4 @@
-# Hi, I'm Karina Carla 👨🏻‍💻 
-
+# Hi, I'm Karina Carla 👩🏽‍💻 ⚡
 <div align="center">
  
 <div style="display: inline_block"><br>
