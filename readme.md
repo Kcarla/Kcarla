@@ -1,22 +1,5 @@
 # Hi, I'm Karina Carla 👨🏻‍💻 
 
-<h4 align="center">
-
-[![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/arthurspk)](https://www.facebook.com/seixasqlc/)
-[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/arthurspk)](https://www.instagram.com/arthurspk/)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/arthurspk)](https://www.linkedin.com/in/arthurspk/)
-
-
-
-</h4>
-
-
-
-The true soldier does not fight because he hates what is in front of him, but because he loves what is behind him. - G. K. Chesterton
-
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-   ## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
 <div align="center">
  
 <div style="display: inline_block"><br>
@@ -42,3 +25,4 @@ The true soldier does not fight because he hates what is in front of him, but be
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
+</div>
