@@ -11,7 +11,7 @@
           
   
   
- <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://gifs.eco.br/wp-content/uploads/2022/08/gifs-com-fundo-transparente-1.gif" width="150" height="150">
+ <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://1.bp.blogspot.com/-fRs_0mFIrWM/VAhqJXR1pmI/AAAAAAAALkQ/JRScFBJzIpw/s1600/Vegeta%2B3.gif" width="150" height="150">
 </div>
   
   ##
