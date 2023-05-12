@@ -11,7 +11,7 @@
           
   
   
-<br> <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://1.bp.blogspot.com/-fRs_0mFIrWM/VAhqJXR1pmI/AAAAAAAALkQ/JRScFBJzIpw/s1600/Vegeta%2B3.gif" width="100" height="90">
+<br> <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://1.bp.blogspot.com/-fRs_0mFIrWM/VAhqJXR1pmI/AAAAAAAALkQ/JRScFBJzIpw/s1600/Vegeta%2B3.gif" width="100" height="100">
 </div>
   
   ##
