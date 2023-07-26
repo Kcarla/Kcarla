@@ -11,12 +11,8 @@
           
   
   
-<br> <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://64.media.tumblr.com/e301053875904e77fbaabcca8d82c55d/f953e150d99621ba-16/s540x810/b7887b8b2474eab7eaa8ece8bebe691af24cd20f.gif" width="150" height="100">
-</div>
-  
-  ##
- 
-<div> 
+<br> 
+
  
  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
